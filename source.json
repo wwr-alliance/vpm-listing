@@ -2,6 +2,9 @@
   "name": "WWR VPM Listing",
   "id": "com.wwr3d.vpm",
   "url": "https://wwr-alliance.github.io/vpm-listing/index.json",
-  "author": "WWR",
+  "author": {
+    "name": "WWR",
+    "url": "https://wwr3d.com"
+  },
   "githubRepos": ["wwr-alliance/uv-exporter"]
 }
