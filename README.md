@@ -4,10 +4,15 @@ The VPM (VRChat Package Manager) listing for WWR tools. Add this listing to VCC 
 
 ## Add to VCC
 
-Click the link below, or add the URL manually in VCC under **Settings → Packages → Add Repository**:
+Open the listing page and press the **Add to VCC** button:
 
-- **Add to VCC:** `vcc://vpm/addRepo?url=https://wwr-alliance.github.io/vpm-listing/index.json`
-- **Listing URL:** `https://wwr-alliance.github.io/vpm-listing/index.json`
+👉 **<https://wwr-alliance.github.io/vpm-listing/>**
+
+Or add it manually in VCC under **Settings → Packages → Add Repository** using this URL:
+
+```
+https://wwr-alliance.github.io/vpm-listing/index.json
+```
 
 Once added, the packages below will appear in the package list for any project you manage with VCC.
 
